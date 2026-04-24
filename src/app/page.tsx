@@ -37,7 +37,7 @@ export default function LandingPage() {
               { name: "Pricing", id: "pricing" },
               { name: "Contact", id: "contact" },
             ]}
-            brandName="VoxAI"
+            brandName="Vox AI"
           />
         </div>
 
